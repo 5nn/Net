@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.0.2)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - Masonry
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: edfdab9bf0f728350ed7d14a2a3c2c63559e399f
+
+COCOAPODS: 1.0.1
